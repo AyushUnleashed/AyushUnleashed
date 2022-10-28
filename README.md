@@ -1,6 +1,7 @@
+[![MasterHead](https://i.postimg.cc/T2z7dDrX/Linkedin-Cover3.png)
 <h1 align="center">Hi 👋, I'm Ayush Yadav</h1>
 <h3 align="center">A passionate Computer Science student skilled in Android Development, Loves Design & Building Products.</h3>
-
+<img src="https://cdn.dribbble.com/users/1124806/screenshots/4876982/ezgif.com-optimize.gif" alt="Coding" width="400" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushunleashed&label=Profile%20views&color=0e75b6&style=flat" alt="ayushunleashed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushunleashed" alt="ayushunleashed" /></a> </p>
