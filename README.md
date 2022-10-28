@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Yadav</h1>
-<h3 align="center">A passionate Computer Science student skilled in Android Development,Loves Design & Building Products.</h3>
+<h3 align="center">A passionate Computer Science student skilled in Android Development, Loves Design & Building Products.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushunleashed&label=Profile%20views&color=0e75b6&style=flat" alt="ayushunleashed" /> </p>
 
@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Operating Systems, DBMS & Networking**
 
-- 👨‍💻 All of my Android projects are available at [https://play.google.com/store/apps/developer?id=Ayush+Unleashed&hl=en&gl=US](https://play.google.com/store/apps/developer?id=Ayush+Unleashed&hl=en&gl=US)
+- 👨‍💻 All of my Android projects are available at [Google Playstore](https://play.google.com/store/apps/developer?id=Ayush+Unleashed&hl=en&gl=US)
 
-- 📝 All my Handles [https://ayushunleashed.carrd.co/](https://ayushunleashed.carrd.co/)
+- 📝 All my Handles [here](https://ayushunleashed.carrd.co/)
 
 - 💬 Ask me about **Android, Kotlin, C++**
 
 - 📫 How to reach me **ayushyadavcodes@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fqThmOmsicBNp2jYusHBe2Ak9whRVLX2/view?usp=sharing](https://drive.google.com/file/d/1fqThmOmsicBNp2jYusHBe2Ak9whRVLX2/view?usp=sharing)
+- 📄 Know about my experiences [Resume here](https://drive.google.com/file/d/1fqThmOmsicBNp2jYusHBe2Ak9whRVLX2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
