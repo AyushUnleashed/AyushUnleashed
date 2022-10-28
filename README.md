@@ -25,7 +25,7 @@
 <a href="https://twitter.com/ayushunleashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushunleashed" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayushunleashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushunleashed" height="30" width="40" /></a>
 <a href="https://www.behance.net/ayushunleashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ayushunleashed" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ayush unleashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ayush unleashed" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCsI8u19z-V_cU2oAptwK2zg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ayush unleashed" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayushunleashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushunleashed" height="30" width="40" /></a>
 </p>
 
