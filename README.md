@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushunleashed" alt="ayushunleashed" /></a> </p>
 
+[![@ayushunleashed's Holopin board](https://holopin.me/ayushunleashed)](https://holopin.io/@ayushunleashed)
+
 - 🔭 I’m currently working on [BeFrend](https://github.com/AyushUnleashed/BeFrend)
 
 - 🌱 I’m currently learning **Operating Systems, DBMS & Networking**
