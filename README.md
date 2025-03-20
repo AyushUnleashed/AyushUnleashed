@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Yadav</h1>
-<h3 align="center">Builder | Python Backend Engineer | AI Application Developer</h3>
+<h3 align="center">Builder | Python Backend Engineer | GenAI Wizard</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1124806/screenshots/4876982/ezgif.com-optimize.gif">
 
 ## About Me
