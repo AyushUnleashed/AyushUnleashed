@@ -1,58 +1,85 @@
-![MasterHead](https://i.postimg.cc/T2z7dDrX/Linkedin-Cover3.png)
 <h1 align="center">Hi 👋, I'm Ayush Yadav</h1>
-<h3 align="center">A passionate Computer Science student skilled in Android Development, Loves Design & Building Products.</h3>
+<h3 align="center">Builder | Python Backend Engineer | AI Application Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1124806/screenshots/4876982/ezgif.com-optimize.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushunleashed&label=Profile%20views&color=0e75b6&style=flat" alt="ayushunleashed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushunleashed" alt="ayushunleashed" /></a> </p>
+## About Me
+I build and ship production-ready GenAI products with scalable backends. Software Engineer with expertise in Python backend engineering, async programming, and infrastructure design.
 
-[![@ayushunleashed's Holopin board](https://holopin.me/ayushunleashed)](https://holopin.io/@ayushunleashed)
+📄 **[View my full resume here](https://drive.google.com/file/d/1HvAzCIy_CgqiVdOOeWS_p3EFJ8w-fb9n)**
 
-- 🔭 I’m currently working on [BeFrend](https://github.com/AyushUnleashed/BeFrend)
+- 🔨 Builder first - I focus on shipping products that work and solve real problems
+  
+- 🔭 My main focus is [ReelsAI.pro](https://reelsai.pro) - spent past several months building this video generation platform from concept to paying customers
+  
+- 💼 Currently at **Nuitee** building Python/Go backends and production infrastructure
 
-- 🌱 I’m currently learning **Operating Systems, DBMS & Networking**
+- 📝 Connect with me on [LinkedIn](https://linkedin.com/in/ayushunleashed)
 
-- 👨‍💻 All of my Android projects are available at [Google Playstore](https://play.google.com/store/apps/developer?id=Ayush+Unleashed&hl=en&gl=US)
+- 📫 Reach me at **ayushyadavcodes@gmail.com**
 
-- 📝 All my Handles [here](https://ayushunleashed.carrd.co/)
+## What I'm Building
 
-- 💬 Ask me about **Android, Kotlin, C++**
+### [ReelsAI.pro](https://reelsai.pro) | [Demo Video](https://yourdemovideo.com)
+*My primary focus for the past several months*
 
-- 📫 How to reach me **ayushyadavcodes@gmail.com**
+AI-powered video creation platform that transforms text into marketing videos with AI actors
+- **Revenue-generating product**: Successfully monetized with paying customers ($25 revenue)
+- **Built entirely from scratch**: Backend, video pipeline, payment system, infrastructure
+- **Technical implementation**: FastAPI async backend, complex video processing pipeline, concurrent request handling
+- **Real user traction**: 24 beta users, 103 signups, 117 waitlist users, with paid customers
+- **Technical challenges solved**: 
+  - Engineered complete video pipeline with MoviePy, OpenCV, and multiple AI integrations
+  - Implemented asynchronous architecture for concurrent video processing
+  - Designed robust webhook system for long-running jobs
+  - Deployed production infrastructure with monitoring and alerting
+- **Tech stack**: Python, FastAPI, Docker, AWS EC2, S3, Whisper, ElevenLabs, Stable Diffusion
 
-- 📄 Know about my experiences [Resume here](https://drive.google.com/file/d/1fqThmOmsicBNp2jYusHBe2Ak9whRVLX2/view?usp=sharing)
+### [Superhero AI](https://github.com/AyushUnleashed/superhero-ai) 
+Custom superhero image generation platform using AI models
+- **Revenue-generating product**: Achieved 5 users and $25 revenue
+- Built complete product with serverless model deployment
+- Implemented payment systems for Indian and international users
+- **Tech**: Stable Diffusion 1.5, IP adapter, pose ControlNet, Replicate, Supabase, Clerk
 
-<h3 align="left">Connect with me:</h3>
+### [Logo Avatars](https://github.com/AyushUnleashed/logo-avatars-pipeline)
+Converting brand logos into creative visuals using Stable Diffusion
+- **Tech**: Python, Diffusers, FastAPI, Streamlit
+
+### [Gen AI Outfit Generator](https://github.com/AyushUnleashed/flipkart-grid-5)
+Fashion recommendation system using vector embeddings
+- **Tech**: CLIP embeddings, vector databases
+
+## Technical Expertise
+
+### Engineering Skills
+- Python backend development with FastAPI and Flask
+- Asynchronous programming and concurrency patterns
+- API design and implementation at scale
+- Go development for high-performance services
+- Video processing and generation systems
+- Custom AI model integration and deployment
+
+### Infrastructure & DevOps
+- Production deployments on AWS (EC2, ECS, S3)
+- Infrastructure as code with Terraform
+- Application monitoring (New Relic, Sentry)
+- Logging pipelines and data storage (BigQuery)
+- Docker containerization and CI/CD pipelines
+
+## Professional Experience
+
+### Nuitee
+- Implemented full-text search systems handling millions of queries
+- Architected ECS/EC2 auto-scaling infrastructure with Terraform
+- Built API logging pipeline with BigQuery integration
+- Engineered translation services for product descriptions
+
+### Dashtoon
+- Optimized ML infrastructure reducing GPU costs
+- Designed comprehensive Kubernetes logging pipeline
+- Developed and deployed ML services with FastAPI
+
+## Connect with me:
 <p align="left">
-<a href="https://twitter.com/ayushunleashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushunleashed" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayushunleashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushunleashed" height="30" width="40" /></a>
-<a href="https://www.behance.net/ayushunleashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ayushunleashed" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCsI8u19z-V_cU2oAptwK2zg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ayush unleashed" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayushunleashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushunleashed" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushunleashed&show_icons=true&locale=en&layout=compact" alt="ayushunleashed" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushunleashed&show_icons=true&locale=en" alt="ayushunleashed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushunleashed&" alt="ayushunleashed" /></p>
-
-
-
-<!--
-**AyushUnleashed/AyushUnleashed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
