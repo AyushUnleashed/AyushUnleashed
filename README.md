@@ -34,7 +34,7 @@ AI-powered video creation platform that transforms text into marketing videos wi
   - Deployed production infrastructure with monitoring and alerting
 - **Tech stack**: Python, FastAPI, Docker, AWS EC2, S3, Whisper, ElevenLabs, Stable Diffusion
 
-### [Superhero AI](https://github.com/AyushUnleashed/superhero-ai)  | [Demo Video]([https://yourdemovideo.com](https://youtu.be/1Pk3JBxMvLg?si=mp1Yee5Gsil4rFxi)
+### [Superhero AI](https://github.com/AyushUnleashed/superhero-ai)  | [Demo Video]([https://youtu.be/1Pk3JBxMvLg?si=mp1Yee5Gsil4rFxi])
 Custom superhero image generation platform using AI models
 - **Revenue-generating product**: Achieved 5 users and $25 revenue
 - Built complete product with serverless model deployment
