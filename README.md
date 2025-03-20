@@ -11,7 +11,7 @@ I build and ship production-ready GenAI products with scalable backends. Softwar
   
 - 🔭 My main focus is [ReelsAI.pro](https://reelsai.pro) - spent past several months building this video generation platform from concept to paying customers
   
-- 💼 Currently at **Nuitee** building Python/Go backends and production infrastructure
+- 💼 Currently at **Nuitee** building Python backends and production infrastructure
 
 - 📝 Connect with me on [LinkedIn](https://linkedin.com/in/ayushunleashed)
 
