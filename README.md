@@ -19,25 +19,21 @@ I build and ship production-ready GenAI products with scalable backends. Softwar
 
 ## What I'm Building
 
-### [ReelsAI.pro](https://reelsai.pro)
+### [ReelsAI.pro](https://reelsai.pro)| $24 revenue | 1 Sale
 *My primary focus for the past several months*
 
 AI-powered video creation platform that transforms text into marketing videos with AI actors
-- **Revenue-generating product**: Successfully monetized with paying customers ($25 revenue)
+- **Revenue-generating product**: Successfully monetized with paying customers
 - **Built entirely from scratch**: Backend, video pipeline, payment system, infrastructure
 - **Technical implementation**: FastAPI async backend, complex video processing pipeline, concurrent request handling
-- **Real user traction**: 24 beta users, 103 signups, 117 waitlist users, with paid customers
 - **Technical challenges solved**: 
   - Engineered complete video pipeline with MoviePy, OpenCV, and multiple AI integrations
   - Implemented asynchronous architecture for concurrent video processing
-  - Designed robust webhook system for long-running jobs
-  - Deployed production infrastructure with monitoring and alerting
 - **Tech stack**: Python, FastAPI, Docker, AWS EC2, S3, Whisper, ElevenLabs, Stable Diffusion
 
-### [Superhero AI](https://github.com/AyushUnleashed/shai-gateway) | [Demo Video](https://youtu.be/1Pk3JBxMvLg?si=mp1Yee5Gsil4rFxi)
+### [Superhero AI](https://github.com/AyushUnleashed/shai-gateway) | [Demo Video](https://youtu.be/1Pk3JBxMvLg?si=mp1Yee5Gsil4rFxi) | $25 revenue | 5 Sales
 Custom superhero image generation platform using AI models
-- **Revenue-generating product**: Achieved 5 users and $25 revenue
-- Built complete product with serverless model deployment
+- Built complete product with serverless model deployment on Replicate/ Hugging face
 - Implemented payment systems for Indian and international users
 - **Tech**: Stable Diffusion 1.5, IP adapter, pose ControlNet, Replicate, Supabase, Clerk
 
@@ -46,38 +42,8 @@ Converting brand logos into creative visuals using Stable Diffusion
 - **Tech**: Python, Diffusers, FastAPI, Streamlit
 
 ### [Gen AI Outfit Generator](https://github.com/AyushUnleashed/flipkart-grid-5)
-Fashion recommendation system using vector embeddings
+Fashion recommendation system using vector embeddings & LLMS, implemented custom function calling. 
 - **Tech**: CLIP embeddings, vector databases
-
-## Technical Expertise
-
-### Engineering Skills
-- Python backend development with FastAPI and Flask
-- Asynchronous programming and concurrency patterns
-- API design and implementation at scale
-- Go development for high-performance services
-- Video processing and generation systems
-- Custom AI model integration and deployment
-
-### Infrastructure & DevOps
-- Production deployments on AWS (EC2, ECS, S3)
-- Infrastructure as code with Terraform
-- Application monitoring (New Relic, Sentry)
-- Logging pipelines and data storage (BigQuery)
-- Docker containerization and CI/CD pipelines
-
-## Professional Experience
-
-### Nuitee
-- Implemented full-text search systems handling millions of queries
-- Architected ECS/EC2 auto-scaling infrastructure with Terraform
-- Built API logging pipeline with BigQuery integration
-- Engineered translation services for product descriptions
-
-### Dashtoon
-- Optimized ML infrastructure reducing GPU costs
-- Designed comprehensive Kubernetes logging pipeline
-- Developed and deployed ML services with FastAPI
 
 ## Connect with me:
 <p align="left">
