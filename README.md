@@ -25,11 +25,11 @@ I build and ship production-ready GenAI products with scalable backends. Softwar
 AI-powered video creation platform that transforms text into marketing videos with AI actors
 - **Revenue-generating product**: Successfully monetized with paying customers
 - **Built entirely from scratch**: Backend, video pipeline, payment system, infrastructure
-- **Technical implementation**: FastAPI async backend, complex video processing pipeline, concurrent request handling
+- **Technical implementation**: FastAPI async backend, complex video processing pipeline, concurrent request handling, reliable workflow with alerts & monitoring.
 - **Technical challenges solved**: 
   - Engineered complete video pipeline with MoviePy, OpenCV, and multiple AI integrations
   - Implemented asynchronous architecture for concurrent video processing
-- **Tech stack**: Python, FastAPI, Docker, AWS EC2, S3, Whisper, ElevenLabs, Stable Diffusion
+- **Tech stack**: Python, FastAPI, Docker, AWS EC2, S3, Whisper, ElevenLabs, Flux, Video models.
 
 ### [Superhero AI](https://github.com/AyushUnleashed/shai-gateway) | [Demo Video](https://youtu.be/1Pk3JBxMvLg?si=mp1Yee5Gsil4rFxi) | $25 revenue | 5 Sales
 Custom superhero image generation platform using AI models
@@ -39,7 +39,7 @@ Custom superhero image generation platform using AI models
 
 ### [Logo Avatars](https://github.com/AyushUnleashed/logo-avatars-pipeline)
 Converting brand logos into creative visuals using Stable Diffusion
-- **Tech**: Python, Diffusers, FastAPI, Streamlit
+- **Tech**: Python, Diffusers, FastAPI, Streamlit, SD 1.5, canary ControlNet.
 
 ### [Gen AI Outfit Generator](https://github.com/AyushUnleashed/flipkart-grid-5)
 Fashion recommendation system using vector embeddings & LLMS, implemented custom function calling. 
