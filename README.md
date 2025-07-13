@@ -17,6 +17,10 @@ I build and ship production-ready GenAI products with scalable backends. Softwar
 
 - 📫 Reach me at **ayushyadavcodes@gmail.com**
 
+## OpenSource APIs:
+ - [Remove object from videos](https://replicate.com/ayushunleashed/minimax-remover)
+ - [Image to 3d model in parts ](https://replicate.com/ayushunleashed/partpacker)
+
 ## What I'm Building
 
 ### [ReelsAI.pro](https://reelsai.pro)| $72 revenue | 3 Sale
