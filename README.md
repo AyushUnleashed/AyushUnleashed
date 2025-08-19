@@ -23,7 +23,7 @@ I build and ship production-ready GenAI products with scalable backends. Softwar
 
 ## What I'm Building
 
-### [ReelsAI.pro](https://reelsai.pro)| $72 revenue | 3 Sale
+### [ReelsAI.pro](https://reelsai.pro)| $91 revenue | 4 Sale
 *My primary focus for the past several months*
 
 AI-powered video creation platform that transforms text into marketing videos with AI actors
